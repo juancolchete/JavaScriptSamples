@@ -1,0 +1,19 @@
+{
+  "name": "javascriptsamples",
+  "version": "1.0.0",
+  "description": "A project with JavasCript samples to help in daily life",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juancolchete/JavaScriptSamples.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/juancolchete/JavaScriptSamples/issues"
+  },
+  "homepage": "https://github.com/juancolchete/JavaScriptSamples#readme"
+}
